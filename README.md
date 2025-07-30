@@ -133,4 +133,4 @@ Enhanced Monitoring: Sysmon and Wazuh provide comprehensive visibility into syst
 
 ## Conclusion
 This project demonstrates a practical approach to strengthening AD security through attack simulation, log analysis, and infrastructure mapping. By simulating real-world threats, monitoring system activities, and identifying vulnerabilities, the setup provides actionable insights for improving EDR capabilities and securing AD environments. The combination of offensive and defensive tools creates a robust framework for testing and enhancing enterprise security.
-For a detailed walkthrough, including setup instructions and tool configurations, refer to the full article: AD Infrastructure Mapping, Log Analysis, and Attack Simulations.
+For a detailed walkthrough, including setup instructions and tool configurations, refer to the full article: https://medium.com/@deensec/ad-infrastructure-mapping-log-analysis-and-attack-simulations-strengthening-edr-security-7c02fd3a3748
