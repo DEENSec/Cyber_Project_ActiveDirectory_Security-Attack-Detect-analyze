@@ -2,6 +2,7 @@
 
 ![image alt](https://raw.githubusercontent.com/DEENSec/Cyber_Project_ActiveDirectory_Security-Attack-Detect-analyze/refs/heads/main/AD_Securtiy.png)
 
+## Project Link : https://medium.com/@deensec/ad-infrastructure-mapping-log-analysis-and-attack-simulations-strengthening-edr-security-7c02fd3a3748
 ## Overview
 This project is designed to enhance the security of an Active Directory (AD) environment by simulating real-world cyber attacks, analyzing system logs, and mapping AD infrastructure to identify vulnerabilities. By leveraging tools like BloodHound, Wazuh, Sysmon, Atomic Red Team, and BlueSpawn, the project provides a comprehensive approach to understanding and improving endpoint detection and response (EDR) capabilities in a controlled lab environment. The setup simulates attacker behavior, monitors system activities, and identifies potential weaknesses in AD configurations, enabling proactive security enhancements.
 For the full article, refer to: AD Infrastructure Mapping, Log Analysis, and Attack Simulations.
